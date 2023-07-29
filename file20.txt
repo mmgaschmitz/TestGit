@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+File 20 afgetakt van een erdere comit point 
+en later nog eern
+=======
+File 20 afgetakt van een erdere comit point
+>>>>>>> feature/msc0002_ook_rekenen
